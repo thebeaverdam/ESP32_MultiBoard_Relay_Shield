@@ -4,9 +4,9 @@
 
 ![Board](resources/MultiBoardRelayShield_3d.png)
 
-The MultiBoard Relay Shield allows you to expand the ESP32 multiboard with two 10A relays and two grove connectors to use different sensors and actuators. 
+The MultiBoard Relay Shield allows you to expand the [ESP32 Multiboard](https://github.com/thebeaverdam/ESP32_MultiBoard) with two 10A relays and two grove connectors to use different sensors and actuators. 
 
-It uses the this pins from the ESP32 Multiboard:
+It uses the this pins from the ESP32:
 
 
 | Component | GPIO |
