@@ -1,0 +1,12 @@
+switch:
+  - platform: gpio
+    name: "Relay 1"
+    pin: 32
+    id: relay_1
+    restore_mode: ALWAYS_OFF
+
+  - platform: gpio
+    name: "Relay 2"
+    pin: 33
+    id: relay_2
+    restore_mode: ALWAYS_OFF
