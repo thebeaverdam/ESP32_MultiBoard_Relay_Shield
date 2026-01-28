@@ -18,7 +18,7 @@ It uses the this pins from the ESP32 Multiboard:
 | **AN 0** | 34 |
 | **AN 1** | 35 |
 
------
+----
 
 <br>
 
